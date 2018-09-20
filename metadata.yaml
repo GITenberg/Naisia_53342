@@ -1,0 +1,44 @@
+_repo: Naisia_53342
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Silvanto, Reino
+    birthdate: 1883
+    gutenberg_agent_id: '45093'
+    url: http://www.gutenberg.org/2009/agents/45093
+creator:
+  author:
+    agent_name: Chekhov, Anton Pavlovich
+    aliases:
+    - Чехов, Антон Павлович
+    - Tshehov, Anton
+    - Chekov, Anton Pavlovich
+    - Tschechow, Anton
+    - Tchekhov, Anton
+    - Tchekhoff, Anton
+    birthdate: 1860
+    deathdate: 1904
+    gutenberg_agent_id: '708'
+    url: http://www.gutenberg.org/2009/agents/708
+    wikipedia: http://en.wikipedia.org/wiki/Anton_Chekhov
+description: ''
+gutenberg_issued: '2016-10-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53342'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, Russian -- Translations into Finnish'
+- !lcsh 'Russian fiction -- Translations into Finnish'
+- !lcc 'PG'
+- GITenberg
+tableOfContents: Naisia -- Hämärässä -- Turvaton olento -- Kosto -- Taideteos -- Parturissa
+  -- Herra postimestarin luona -- Ihana Vanda -- Kameleontti -- Hotellissa -- Mikä
+  ilo -- Albionin tytär -- Sinotshka -- Murhenäytelmä -- Kyllä naisten kelpaa -- "Skruuvi"
+  -- Lihava ja laiha -- Voittolippu -- Vieraalla maalla -- Kielikello -- Panettelu
+  -- "Naskali pussissa" -- Kapteenin univormu -- Ritarimerkki.
+title: Naisia
+url: http://www.gutenberg.org/ebooks/53342
